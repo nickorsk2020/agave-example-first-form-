@@ -1,0 +1,29 @@
+@import "bootstrap.min.css";
+@import "Reset.scss";
+@import "Fonts.scss";
+
+body,html
+{
+  font-family: Arial;
+}
+
+.special_margin {
+  height: 40px;
+  width: 100%;
+  display: inline-block;
+}
+
+.error-form-validate
+{
+  color: #d70b00;
+}
+
+.btn
+{
+  margin-right: 20px;
+}
+
+.login-container
+{
+  display: inline-block;
+}
